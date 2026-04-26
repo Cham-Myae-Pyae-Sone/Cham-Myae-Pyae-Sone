@@ -18,13 +18,13 @@
 - **Tools:** Git, Docker, AWS
 
 📌 Featured Projects
-🔹 Depth Estimation System
+- Depth Estimation System
 Built real-time 3D object detection using OpenCV + YOLO
 Implemented stereo vision (SGBM algorithm)
-🔹 Payroll & Attendance System
+- Payroll & Attendance System
 Developed full backend system with automated salary calculation
 Integrated database + business logic
-🔹 Full-Stack Exam Management System
+- Full-Stack Exam Management System
 Built role-based system (Admin, Teacher, Student)
 Automated grading and exam workflows
 
