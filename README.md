@@ -7,8 +7,9 @@
 -  💡 Focus: Backend systems, APIs, and data-driven apps
 -  ⚡ Experience building payroll, booking, and AI systems
 -  🌱 Currently improving system design & scalable architectures
--  🛠 Tech Stack
 
+  
+ **� Tech Stack**
 - **Languages:** Python, Java, JavaScript, PHP, C
 - **Backend:** Node.js, FastAPI, REST APIs
 - **Frontend:** React, HTML, CSS
