@@ -2,7 +2,7 @@
 
 💻 Software Engineer (Backend / Full-Stack)
 
-- 🚀 About Me
+🚀 About Me
 -  🎓 MSc Computing graduate
 -  💡 Focus: Backend systems, APIs, and data-driven apps
 -  ⚡ Experience building payroll, booking, and AI systems
