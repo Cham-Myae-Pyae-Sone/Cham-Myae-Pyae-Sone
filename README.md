@@ -8,7 +8,7 @@
 -  ⚡ Experience building payroll, booking, and AI systems
 -  🌱 Currently improving system design & scalable architectures
 
-  
+
  **� Tech Stack**
 - **Languages:** Python, Java, JavaScript, PHP, C
 - **Backend:** Node.js, FastAPI, REST APIs
@@ -17,7 +17,7 @@
 - **AI/ML:** OpenCV, YOLO, TensorFlow
 - **Tools:** Git, Docker, AWS
 
-📌 Featured Projects
+**📌 Featured Projects**
 - Depth Estimation System
 Built real-time 3D object detection using OpenCV + YOLO
 Implemented stereo vision (SGBM algorithm)
@@ -31,10 +31,10 @@ Automated grading and exam workflows
 
 
 
-📫 Contact Me
-Email: chanmyae26082002@gmail.com
-LinkedIn: -
-GitHub: -
+**📫 Contact Me**
+- Email: chanmyae26082002@gmail.com
+- LinkedIn: -
+- GitHub: -
 
 
 
